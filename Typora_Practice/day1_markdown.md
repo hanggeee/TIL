@@ -103,7 +103,7 @@ Git 로고입니다.
 ![Git로고](https://git-scm.com/images/logo@2x.png)
 ```
 
-결과
+결과 
 
 Git 로고입니다.
 ![Git로고](day1_markdown.assets/logo@2x.png)
